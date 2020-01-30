@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hisab</string>
+    <string name="title_activity_front">front</string>
+    <string-array name="expenseCategories">
+        <item>Food</item>
+        <item>Transportation</item>
+        <item>Education</item>
+        <item>Telephone</item>
+        <item>Shopping</item>
+        <item>Bills</item>
+        <item>Tax</item>
+        <item>Travel</item>
+        <item>Social</item>
+        <item>Medicines</item>
+        <item>Entertainment</item>
+    </string-array>
+    <string-array name="incomeCategories">
+        <item>Salary</item>
+        <item>Awards</item>
+        <item>Refunds</item>
+    </string-array>
+</resources>
